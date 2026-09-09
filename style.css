@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(128, 0, 32)
+}
+
+h1{
+    color: rgb(74, 48, 38);
+    background-color: rgb(245, 235, 215);
+    
+
+}
+button {
+    background-color: rgb(74, 48, 38);
+    color: rgb(245, 235, 215);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    padding: 12px 25px;
+    margin: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+    justify-content: center;
+}
+p{
+    
+}

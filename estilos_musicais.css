@@ -1,0 +1,16 @@
+.title{
+    color: rgb(74, 48, 38);
+    background-color: rgb(245, 235, 215);
+}
+body{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(128, 0, 32)
+}
+p{
+    font-size: 25px;
+    color:  rgb(245, 235, 215);;
+}
+h3{
+    color:rgb(0, 0, 0);
+}
